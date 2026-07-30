@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Aryan Satyendra Kumar - AI and ML Research Engineer" width="100%">
-</p>
+<div align="center">
+
+# Aryan Satyendra Kumar
+
+### ECE Undergraduate at NIT Goa · Minor in Computer Science
+
+**Machine Learning · Computer Vision · Multimodal AI · RAG Systems**
 
 <p align="center">
   <a href="mailto:kumararyan66472@gmail.com">
