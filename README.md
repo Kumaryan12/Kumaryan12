@@ -25,9 +25,6 @@ I am an **Electronics and Communication Engineering undergraduate at NIT Goa**, 
 
 My work ranges from leakage-aware PM2.5 modelling and visual road-dust analysis to source-grounded legal assistance, probabilistic Formula 1 simulation, and civic-tech platforms designed around real operational workflows.
 
-```text
-Research question  ->  Data and evaluation  ->  Model or intelligence layer  ->  Usable product
-```
 
 <table>
 <tr>
@@ -64,84 +61,7 @@ Developed a multimodal roadside PM2.5 pipeline combining mobile sensors, OPC par
 **Signalling and Telecommunications Intern — South Western Railways / RVNL**  
 Studied Kyosan Electronic Interlocking in a safety-critical environment, including command-to-field feedback paths, relay interfaces, interlocking logic, and failure-mode handling.
 
-## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [NyayaSetu](https://github.com/Kumaryan12/nyaysetu)
-
-A full-stack, source-grounded legal-aid and public-grievance assistant for Indian citizens. It combines fine-tuned XLM-R classifiers, official-source retrieval, guarded generation, citations, and an explainability panel.
-
-**Stack:** XLM-R · PyTorch · FastAPI · ChromaDB · Sentence Transformers · Next.js
-
-[Repository](https://github.com/Kumaryan12/nyaysetu)
-
-</td>
-<td width="50%" valign="top">
-
-### [F1 Race Prediction System](https://github.com/Kumaryan12/F1_prediction_2026)
-
-An end-to-end race prediction platform using historical form, driver/team priors, circuit context, uncertainty intervals, and Monte Carlo simulation to produce probabilistic finishing-position forecasts.
-
-**Stack:** Python · FastF1 · scikit-learn · FastAPI · Next.js · Monte Carlo
-
-[Repository](https://github.com/Kumaryan12/F1_prediction_2026) · [Race analysis](https://instagram.com/ak_predicts)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [WardPulse](https://github.com/Kumaryan12/wardpulse)
-
-A hyperlocal pollution operations copilot that detects hotspots, estimates likely sources, prioritizes sensitive zones, creates action tickets, records proof of intervention, and evaluates impact.
-
-**Stack:** FastAPI · Next.js · PostgreSQL · Geospatial UI · Sensor simulation
-
-[Repository](https://github.com/Kumaryan12/wardpulse) · [Live demo](https://wardpulse-rosy.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### [HostelMitra](https://github.com/Kumaryan12/HostelMitra)
-
-A deployed hostel complaint-management portal with Google authentication, real-time tracking, role-based administration, vote-based prioritization, resolution workflows, and timestamped audit trails.
-
-**Stack:** React · Firebase Authentication · Firestore · Google OAuth
-
-[Repository](https://github.com/Kumaryan12/HostelMitra) · [Live demo](https://hostelmitra-81b7d.web.app/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Amazon ML Challenge 2025](https://github.com/Kumaryan12/Amazon-ML-Challenge)
-
-A multimodal product-price prediction system using text and image embeddings, metadata, gradient boosting, nearest-neighbour signals, calibration, and segment-wise blending.
-
-**Stack:** E5 embeddings · OpenCLIP · LightGBM · XGBoost · FAISS · Ridge
-
-[Repository](https://github.com/Kumaryan12/Amazon-ML-Challenge)
-
-</td>
-<td width="50%" valign="top">
-
-### [RoadSoS](https://github.com/Kumaryan12/Roadsos)
-
-A golden-hour emergency-response platform connecting victims, bystanders, and responders through structured SOS cases, real-time geolocation, vehicle-based matching, crash detection, and an ESP32 hardware extension.
-
-**Stack:** React · Firebase · React Leaflet · DeviceMotion API · ESP32
-
-[Repository](https://github.com/Kumaryan12/Roadsos)
-
-</td>
-</tr>
-</table>
 
 ## Technical toolkit
 
@@ -180,24 +100,29 @@ A golden-hour emergency-response platform connecting victims, bystanders, and re
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kumaryan12&show_icons=true&hide_border=true&bg_color=00000000&title_color=3acebc&icon_color=0e6666&text_color=7d8b8a&rank_icon=github" alt="Aryan's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaryan12&layout=compact&hide_border=true&bg_color=00000000&title_color=3acebc&text_color=7d8b8a&langs_count=8&hide=jupyter%20notebook,html,css" alt="Most used languages">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kumaryan12&theme=github_dark"
+    alt="GitHub statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kumaryan12&theme=github_dark&exclude=html,css,jupyter%20Notebook"
+    alt="Languages by repository"
+  />
 </p>
 
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumaryan12&theme=transparent" alt="GitHub contribution overview">
+  <img
+    width="97%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumaryan12&theme=github_dark&name=Aryan%20Kumar"
+    alt="GitHub contribution activity"
+  />
 </p>
+
 
 ---
 
-<p align="center">
-  <strong>Building ML systems that move from experiments to evidence, interfaces, and real-world decisions.</strong>
-</p>
 
-<p align="center">
-  <a href="mailto:kumararyan66472@gmail.com">Email</a>
-  ·
-  <a href="https://www.linkedin.com/in/kumaryan12">LinkedIn</a>
-  ·
-  <a href="https://portfolio-ochre-zeta-28.vercel.app">Portfolio</a>
-</p>
+
+
