@@ -102,12 +102,13 @@ Studied Kyosan Electronic Interlocking in a safety-critical environment, includi
 <p align="center">
   <img
     width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kumaryan12&theme=github_dark"
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
     alt="GitHub statistics"
   />
+
   <img
     width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kumaryan12&theme=github_dark&exclude=html,css,jupyter%20Notebook"
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
     alt="Languages by repository"
   />
 </p>
@@ -115,12 +116,10 @@ Studied Kyosan Electronic Interlocking in a safety-critical environment, includi
 <p align="center">
   <img
     width="97%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kumaryan12&theme=github_dark&name=Aryan%20Kumar"
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     alt="GitHub contribution activity"
   />
 </p>
-
-
 ---
 
 
