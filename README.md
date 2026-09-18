@@ -26,32 +26,6 @@ I am an **Electronics and Communication Engineering undergraduate at NIT Goa**, 
 My work ranges from leakage-aware PM2.5 modelling and visual road-dust analysis to source-grounded legal assistance, probabilistic Formula 1 simulation, and civic-tech platforms designed around real operational workflows.
 
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Current direction
-
-- Multimodal and temporal machine learning
-- Computer vision for real-world sensing
-- Reliable evaluation and leakage auditing
-- Retrieval-augmented generation with guardrails
-- End-to-end ML products using FastAPI and Next.js
-
-</td>
-<td width="50%" valign="top">
-
-### Currently building
-
-- Roadside air-quality intelligence
-- Source-grounded public-service AI
-- Probabilistic sports simulations
-- Civic-tech decision-support systems
-- Human-in-the-loop operational dashboards
-
-</td>
-</tr>
-</table>
 
 ## Research and experience
 
