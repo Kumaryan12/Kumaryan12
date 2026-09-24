@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/kumaryan12">
     <img src="https://img.shields.io/badge/LinkedIn-kumaryan12-0e6666?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://portfolio-ochre-zeta-28.vercel.app">
+  <a href="https://my-portfolio-ecru-ten-mpqh534zz4.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-3acebc?style=flat-square&logo=vercel&logoColor=06181c" alt="Portfolio">
   </a>
   <img src="https://komarev.com/ghpvc/?username=Kumaryan12&style=flat-square&color=0e6666&label=PROFILE+VIEWS" alt="Profile views">
